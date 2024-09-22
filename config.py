@@ -16,7 +16,7 @@ config = {
     "samples_path": "./Data/checkpoint.example",
     "train_iters": 1000,
     "batch_size": 512,
-    "epochs": 15,
+    "epochs": 60,
     "explore_threshold": 18,
     "dirichlet_alpha": 0.06,
     "dirichlet_theta": 0.25,
